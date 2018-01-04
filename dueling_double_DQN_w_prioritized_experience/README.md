@@ -4,5 +4,17 @@ This package is an example of a reinforcement learning method implementation.
 - Memory
 - Env
 - Main
----
+
 ### Network
+- Dueling DQN
+- Double DQN
+
+### Memory
+Prioritized Experience Replay
+
+### Env
+Obstacle avoidance path planning
+
+### Main
+Multi-step TD
+
